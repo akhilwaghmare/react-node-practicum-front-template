@@ -3,7 +3,7 @@
 This will be the front-end for your team's practicum project.
 
 It is suggested that you run these instructions **after** you setup the back-end server first.
-You can go through these steps during your first group meeting in-case you need assistance from your mentors.
+You can go through these steps during your first group meeting in case you need assistance from your mentors.
 
 You will have two folders inside one team folder (one for front-end and one for back-end). 
 
