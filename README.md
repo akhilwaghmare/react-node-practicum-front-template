@@ -5,7 +5,7 @@ This will be the front-end for your team's practicum project.
 It is suggested that you run these instructions **after** you setup the back-end server first.
 You can go through these steps during your first group meeting in case you need assistance from your mentors.
 
-You will have two folders inside one team folder (one for front-end and one for back-end). 
+You will have two folders inside one team folder (one for front-end and one for back-end). Name the parent folder something appropriate (in the below example we title it "Practicum Project").  Then clone directly (do not fork and clone) the front and back repos while inside the parent project folder.
 
 ![folders](images/folder_structure.png)
 
