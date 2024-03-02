@@ -4,8 +4,8 @@ import { getAllData } from './util/index';
 const URL = 'http://localhost:8000/api/v1/';
 
 function App() {
-
-const [message, setMessage] = useState(''); 
+  
+  const [message, setMessage] = useState(''); 
 
   useEffect(() => {
 
@@ -25,6 +25,7 @@ const [message, setMessage] = useState('');
       <h1>{message}</h1>
     </>
   );
+
 }
 
-export default App;
+export default App
